@@ -29,7 +29,12 @@ li>a{
     text-decoration: none;
 }*/
 
-/* Seletor de descendente */
+/* Seletor de descendente 
 p a {
     color: green;
+}*/
+
+/* Seletor de irmão adjacente */
+h1+p {
+     color: red;
 }
