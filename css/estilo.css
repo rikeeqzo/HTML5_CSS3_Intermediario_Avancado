@@ -34,7 +34,12 @@ p a {
     color: green;
 }*/
 
-/* Seletor de irmão adjacente */
+/* Seletor de irmão adjacente 
 h1+p {
      color: red;
+}*/
+
+/*Seletor de irmão geral*/
+h1~div{
+    color: pink;
 }
