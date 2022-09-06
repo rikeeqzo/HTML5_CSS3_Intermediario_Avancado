@@ -23,8 +23,13 @@ p.verde{
     border: 1px solid blue;
 }*/
 
-/* Seletor de filho */
+/* Seletor de filho 
 li>a{
     color: red;
     text-decoration: none;
+}*/
+
+/* Seletor de descendente */
+p a {
+    color: green;
 }
