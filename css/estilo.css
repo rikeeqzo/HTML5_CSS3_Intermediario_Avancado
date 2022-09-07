@@ -44,8 +44,9 @@ h1~div{
     color: pink;
 }*/
 
-/*Herança e especificade*/
+/*Herança e especificade
 body{
     color: red;
-    font-size: 16px;
-}
+    border: 1px solid blue;
+}*/
+
