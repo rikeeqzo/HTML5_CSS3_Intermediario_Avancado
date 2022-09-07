@@ -61,4 +61,5 @@ p {
 }*/
 
 /* Se um seletor for mais específico que outro a regra mais específica
-será aplicada
+será aplicada (terá precedência sobre regras mais gerais)
+*/
