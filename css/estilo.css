@@ -39,7 +39,8 @@ h1+p {
      color: red;
 }*/
 
-/*Seletor de irmão geral*/
+/*Seletor de irmão geral
 h1~div{
     color: pink;
-}
+}*/
+
