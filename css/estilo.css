@@ -60,3 +60,5 @@ p {
     Quando temos dois seletores iguais, a formatação que será aplicada sempre será a ultima, neste caso o azul, só será aplicado a primeira caso você utilize o !important, mas utilize com caltela em casos específicos para que seu código não fique confuso
 }*/
 
+/* Se um seletor for mais específico que outro a regra mais específica
+será aplicada
