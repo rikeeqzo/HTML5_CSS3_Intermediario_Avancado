@@ -62,7 +62,7 @@ p {
 
 /* Se um seletor for mais específico que outro a regra mais específica
 será aplicada (terá precedência sobre regras mais gerais)
-*/
+
 
 * {
     color: red;
@@ -71,3 +71,7 @@ será aplicada (terá precedência sobre regras mais gerais)
 h2 {
     color: blue;
 }
+
+Neste exemplo, a formatação que será aplicada será a do h2 por ser mais específica, enquanto a do * é uma formatação mais geral.
+*/
+
