@@ -76,9 +76,14 @@ h2.verde {
     color green
 }
 
-Neste exemplo, a formatação que será aplicada será a do h2.verde por ser mais específica, enquanto a do * é uma formatação mais geral.
+h2#amarelo {
+    color: yellow;
+}
+
+Neste exemplo, a formatação que será aplicada será a do h2.amarelo por ser mais específica, enquanto a do * é uma formatação mais geral.
 
 a ordem seria:
+h2#amarelo
 h2.verde
 h2
 *
